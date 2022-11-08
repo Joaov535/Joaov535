@@ -3,8 +3,10 @@
 ### Estou cursando o 1° semestre de ADS e aprimorando minha habilidades em algumas tecnologias 
 
 ## Skills
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='JavaScript' width='50'>
-
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' width='50'/>  
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg'/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+          
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaov535&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaov535&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
