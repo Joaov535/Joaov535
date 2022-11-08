@@ -9,5 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaov535&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Redes
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/joaovictoraraujocruz/)
-[<img src=''>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joaovictoraraujocruz/)
