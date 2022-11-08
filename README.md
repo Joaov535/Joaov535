@@ -1,4 +1,4 @@
-# Olá!
+<h1>Olá!</h1>
 <p>Muito prazer, me chamo João e sou estudante de programação.</p>
 <p>Estou cursando o 1° semestre de ADS e aprimorando minha habilidades em algumas tecnologias.</p> 
 
