@@ -1,6 +1,6 @@
 # Olá!
-Muito prazer, me chamo João e sou estudante de programação.
-Estou cursando o 1° semestre de ADS e aprimorando minha habilidades em algumas tecnologias 
+<p>Muito prazer, me chamo João e sou estudante de programação.</p>
+<p>Estou cursando o 1° semestre de ADS e aprimorando minha habilidades em algumas tecnologias.</p> 
 
 ### Skills
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' width='50'>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg' alt='HTML5' width='50'>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt='CSS3' width='50'>
