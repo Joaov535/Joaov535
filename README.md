@@ -11,3 +11,6 @@
           
 ## Redes
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' width='50'>](https://www.linkedin.com/in/joaovictoraraujocruz/)
+
+## Contato
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />](joaovictorcruz535@gmail.com)
