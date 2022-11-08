@@ -1,4 +1,6 @@
-# Olá,
+# Olá!
+## Muito prazer, me chamo João e sou estudante de programação
+### Estou cursando o 1° semestre de ADS e aprimorando minha habilidades em algumas tecnologias
 
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
