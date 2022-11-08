@@ -3,7 +3,7 @@
 <p>Estou cursando o 1° semestre de ADS e aprimorando minhas habilidades em algumas tecnologias.</p> 
 
 ### Conhecimento
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg' alt='HTML5' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt='CSS3' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt='CSS3' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/CSS) [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg' alt='HTML5' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### O que estou estudando atualmente
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt='JavaScript' width='60'>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='60'/>](https://www.postgresql.org/about/)
